@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = 'Flutter'
+  s.name                  = 'CrossPlatformSDK'
   s.version               = '3.16.500' # 3.16.5
   s.summary               = 'A UI toolkit for beautiful and fast apps.'
   s.description           = <<-DESC
